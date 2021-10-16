@@ -1,6 +1,6 @@
 # IMDB 5000 Movies Project
 Class Project for Business Analytics and Data Mining course.
-to view contents of this project, paste this link(https://patrickmugisha.github.io/) in your browser.
+<br>To view contents of this project, click this link https://patrickmugisha.github.io/
 
 Topics/Areas covered include:
 
